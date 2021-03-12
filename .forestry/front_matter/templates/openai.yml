@@ -1,4 +1,10 @@
 ---
 label: openai
 hide_body: false
-fields: []
+fields:
+- name: lable-1
+  type: include
+  config: {}
+  template: openai
+  label: lable
+  description: ОНЕwhe
