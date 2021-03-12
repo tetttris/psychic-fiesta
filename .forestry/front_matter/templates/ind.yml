@@ -1,4 +1,9 @@
 ---
 label: ind
 hide_body: true
-fields: []
+fields:
+- name: sddd
+  type: text
+  config:
+    required: false
+  label: sddd
