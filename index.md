@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+---
+published: false
 
-You can use the [editor on GitHub](https://github.com/tetttris/psychic-fiesta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+## Добро пожаловать на страницы GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Вы можете использовать [на GitHub](https://github.com/tetttris/psychic-fiesta/edit/gh-pages/index.md) предварительный просмотр содержимого вашего веб-сайта файла Markdown.
 
-### Markdown
+Каждый раз, когда вы фиксируете этот репозиторий, GitHub Pages запускает [Jekyll](https://jekyllrb.com/) для восстановления страниц вашего сайта из содержимого ваших файлов Markdown.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Уценка
+
+Markdown - это легкий и простой в использовании синтаксис для стилизации вашего текста. Он включает соглашение для
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +30,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Для получения дополнительной информации см. [Уценка со вкусом GitHub](https://guides.github.com/features/mastering-markdown/) .
 
-### Jekyll Themes
+### Джекилл Темы
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tetttris/psychic-fiesta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ваш сайт Pages будет использовать макет и стили из темы Jekyll, которую вы выбрали в [настройках репозитория](https://github.com/tetttris/psychic-fiesta/settings) . Название этой темы сохраняется в `_config.yml`файле конфигурации Jekyll.
 
-### Support or Contact
+### Поддержка или контакт
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Возникли проблемы со страницами? Ознакомьтесь с нашей [документацией](https://docs.github.com/categories/github-pages-basics/) или [обратитесь в службу поддержки,](https://support.github.com/contact) и мы поможем вам разобраться.
