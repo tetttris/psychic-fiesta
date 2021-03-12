@@ -1,4 +1,14 @@
 ---
 label: Paragraph
 hide_body: true
-fields: []
+fields:
+- name: label
+  type: number
+  label: label
+  description: "(it looks exactly like this"
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
